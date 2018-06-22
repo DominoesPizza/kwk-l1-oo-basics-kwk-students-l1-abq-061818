@@ -1,1 +1,8 @@
-# Make your shoe class here!
+def initialize(title)
+  @title = title
+end
+
+def title 
+  @title
+end
+
